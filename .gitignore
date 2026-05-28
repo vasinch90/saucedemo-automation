@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual Environment — ไม่ต้อง upload ขึ้น GitHub
+venv/
+
+# Test Reports
+report.html
+allure-results/
+
+# IDE
+.vscode/
+.idea/
